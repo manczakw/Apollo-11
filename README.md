@@ -5,75 +5,7 @@
 [![Comanche]][ComancheMilestone]
 [![Luminary]][LuminaryMilestone]
 
-🎌
-[Bahasa Indonesia][ID],
-[Català][CA],
-[Čeština][CZ],
-[Dansk][DA],
-[Deutsch][DE],
-**English**,
-[Español][ES],
-[Français][FR],
-[Italiano][IT],
-[Kurdi][KU],
-[Nederlands][NL],
-[Norsk][NO],
-[Polski][PL],
-[Português][PT_BR],
-[Română][RO],
-[Tiếng Việt][VI],
-[Türkçe][TR],
-[Ukrainian][UA],
-[Ελληνικά][GR],
-[Русский][RU],
-[العربية][AR],
-[فارسی][FA],
-[हिंदी][HI_IN],
-[অসমীয়া][AS_IN],
-[বাংলা][BD_BN],
-[မြန်မာ][MM],
-[日本語][JA],
-[正體中文][ZH_TW],
-[简体中文][ZH_CN],
-[한국어][KO_KR]
-
-[AR]:README.ar.md
-[AS_IN]:README.as_in.md
-[BD_BN]:README.bd_bn.md
-[CA]:README.ca.md
-[CZ]:README.cz.md
-[DA]:README.da.md
-[DE]:README.de.md
-[EN]:README.md
-[ES]:README.es.md
-[FA]:README.fa.md
-[FR]:README.fr.md
-[GR]:README.gr.md
-[HI_IN]:README.hi_in.md
-[ID]:README.id.md
-[IT]:README.it.md
-[JA]:README.ja.md
-[KO_KR]:README.ko_kr.md
-[KU]:README.ku.md
-[LT]:README.lt.md
-[MM]:README.mm.md
-[NL]:README.nl.md
-[NO]:README.no.md
-[PL]:README.pl.md
-[PT_BR]:README.pt_br.md
-[RO]:README.ro.md
-[RU]:README.ru.md
-[TR]:README.tr.md
-[UA]:README.ua.md
-[VI]:README.vi.md
-[ZH_CN]:README.zh_cn.md
-[ZH_TW]:README.zh_tw.md
-
 Original Apollo 11 guidance computer (AGC) source code for Command Module (Comanche055) and Lunar Module (Luminary099). Digitized by the folks at [Virtual AGC][3] and [MIT Museum][4]. The goal is to be a repo for the original Apollo 11 source code. As such, PRs are welcome for any issues identified between the transcriptions in this repository and the original source scans for [Luminary 099][5] and [Comanche 055][6], as well as any files I may have missed.
-
-## Contributing
-
-Please read [CONTRIBUTING.md][7] before opening a pull request.
 
 ## Compiling
 
